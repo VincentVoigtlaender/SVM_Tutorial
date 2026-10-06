@@ -8,7 +8,7 @@ There are three ways to view the tutorial:
 
 ## A: Online via Binder
 
-Click the following button to view and interact with the tutorial online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VincentVoigtlaender/SVM_Tutorial/dev?urlpath=%2Fdoc%2Ftree%2Fsvm_tutorial.ipynb)
+Click the following button to view and interact with the tutorial online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VincentVoigtlaender/SVM_Tutorial/HEAD?urlpath=%2Fdoc%2Ftree%2Fsvm_tutorial.ipynb)
 
 ## B: Offline as Jupyter Notebook
 
