@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+resources/
+.ipynb_checkpoints/
